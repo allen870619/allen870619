@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![README Stats](https://github-readme-stats.vercel.app/api?username=ethanhuang13&show_icons=true&hide_title=true&count_private=true)
+
 <!--
 **allen870619/allen870619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
