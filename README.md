@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-![README Stats](https://github-readme-stats.vercel.app/api?username=allen870619&show_icons=true&hide_title=true&count_private=true)
+![allen870619's GitHub stats](https://github-readme-stats.vercel.app/api?username=allen870619&show_icons=true&bg_color=30,de5d42,489dec&text_color=ffffff&title_color=ffffff&icon_color=70aef0)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allen870619&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - Learning iOS w/ swift...
 - Learning Android w/ kotlin...
 - Learning connecting to community...
 - Learning everything!
-
-
 
 <!--
 **allen870619/allen870619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
