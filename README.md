@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=allen870619&color=orange&style=flat-square)
+
 ![allen870619's GitHub stats](https://github-readme-stats.vercel.app/api?username=allen870619&show_icons=true&bg_color=30,de5d42,489dec&text_color=ffffff&title_color=ffffff&icon_color=70aef0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allen870619&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
